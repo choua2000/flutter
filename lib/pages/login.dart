@@ -110,12 +110,3 @@ class _LoginState extends State<Login> {
   }
 }
 //add new class
-class AppWidget {
-  static TextStyle HeadleTextFilledStyle() {
-    return TextStyle(
-        color: Colors.black,
-        fontSize: 18.0,
-        fontWeight: FontWeight.bold,
-        fontFamily: "Poppins");
-  }
-}
